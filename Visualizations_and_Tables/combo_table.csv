@@ -1,0 +1,25 @@
+,,Deceased,Prevalence (%) ,Survivors,Prevalence (%)  
+0,Top 5 conditions: single condition,,,,
+1,,Fall History  (n=211),99.1%,Fall History  (n=217),100.0%
+2,,Urinary Incontinence  (n=202),94.8%,Urinary Incontinence  (n=200),92.2%
+3,,Hypertension  (n=199),93.4%,Hypertension  (n=196),90.3%
+4,,Bowel Incontinence  (n=194),91.1%,Bowel Incontinence  (n=184),84.8%
+5,,Depression  (n=150),70.4%,Depression  (n=146),67.3%
+6,Top 5 combinations: 2 conditions,,,,
+7,,Fall History + Urinary Incontinence  (n=200),93.9%,Fall History + Urinary Incontinence  (n=200),92.2%
+8,,Hypertension + Fall History  (n=197),92.5%,Hypertension + Fall History  (n=196),90.3%
+9,,Fall History + Bowel Incontinence  (n=192),90.1%,Fall History + Bowel Incontinence  (n=184),84.8%
+10,,Hypertension + Urinary Incontinence  (n=190),89.2%,Bowel Incontinence + Urinary Incontinence  (n=182),83.9%
+11,,Bowel Incontinence + Urinary Incontinence  (n=188),88.3%,Hypertension + Urinary Incontinence  (n=181),83.4%
+12,Top 5 combinations: 3 conditions,,,,
+13,,Hypertension + Fall History + Urinary Incontinence  (n=188),88.3%,Fall History + Bowel Incontinence + Urinary Incontinence  (n=182),83.9%
+14,,Fall History + Bowel Incontinence + Urinary Incontinence  (n=186),87.3%,Hypertension + Fall History + Urinary Incontinence  (n=181),83.4%
+15,,Hypertension + Fall History + Bowel Incontinence  (n=178),83.6%,Hypertension + Fall History + Bowel Incontinence  (n=168),77.4%
+16,,Hypertension + Bowel Incontinence + Urinary Incontinence  (n=176),82.6%,Hypertension + Bowel Incontinence + Urinary Incontinence  (n=166),76.5%
+17,,Depression + Fall History + Urinary Incontinence  (n=142),66.7%,Depression + Hypertension + Fall History  (n=135),62.2%
+18,Top 5 combinations: 4 conditions,,,,
+19,,Hypertension + Fall History + Bowel Incontinence + Urinary Incontinence  (n=174),81.7%,Hypertension + Fall History + Bowel Incontinence + Urinary Incontinence  (n=166),76.5%
+20,,Heart Failure + Hypertension + Fall History + Urinary Incontinence  (n=136),63.8%,Depression + Hypertension + Fall History + Urinary Incontinence  (n=124),57.1%
+21,,Depression + Hypertension + Fall History + Urinary Incontinence  (n=133),62.4%,Depression + Fall History + Bowel Incontinence + Urinary Incontinence  (n=122),56.2%
+22,,Depression + Fall History + Bowel Incontinence + Urinary Incontinence  (n=133),62.4%,Depression + Hypertension + Fall History + Bowel Incontinence  (n=116),53.5%
+23,,Heart Failure + Fall History + Bowel Incontinence + Urinary Incontinence  (n=130),61.0%,Depression + Hypertension + Bowel Incontinence + Urinary Incontinence  (n=114),52.5%

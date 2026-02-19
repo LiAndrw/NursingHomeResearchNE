@@ -1,0 +1,18 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - conda>=24.7.1
+  - mamba>=1.5.9
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - jupyter
+  - nbconvert
+prefix: /Users/Thebigkab00m/miniforge3

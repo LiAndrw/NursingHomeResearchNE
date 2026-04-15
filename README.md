@@ -2,7 +2,7 @@
  Analysis of correlations between obesity, mortality, and comorbilities. You only really need to know about/care about 5 files/folders
 
 ## environment.yml
-This file (hopefully) contains all of the necessary imports and software for running my code. To use it, do the following after cloning and then navigating into this repository on your personal device:
+This file (hopefully) contains all of the necessary imports and software for running my code. To use it, type the following into your terminal after cloning and then navigating into this repository on your personal device:
 
 ```
 conda env create -f environment.yml

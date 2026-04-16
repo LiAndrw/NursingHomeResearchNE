@@ -1,0 +1,10 @@
+Obesity_Class,Profile_Size,Top_Profile,N_in_class,N_with_profile,Deaths_in_class,Death_rate_%,OR(Profile),CI95_low,CI95_high,p_value,Model_status
+Class I,1,Fall History,225,223,113.0,50.2,1.3399333714263873e-08,0.0,inf,0.9985903346259942,OK
+Class I,2,Fall History + Urinary Incontinence,225,207,113.0,50.2,0.7549016495778649,0.2434113332287823,2.3412077530496678,0.626330098462893,OK
+Class I,3,Hypertension + Fall History + Urinary Incontinence,225,188,113.0,50.2,1.844028465486682,0.822873643548105,4.132397492843478,0.137159211937391,OK
+Class II,1,Fall History,107,107,,,,,,,Profile indicator is constant (no variation)
+Class II,2,Fall History + Urinary Incontinence,107,97,,,,,,,Error: LinAlgError: Singular matrix
+Class II,3,Fall History + Bowel Incontinence + Urinary Incontinence,107,92,,,,,,,Error: LinAlgError: Singular matrix
+Class III,1,Fall History,85,85,,,,,,,Profile indicator is constant (no variation)
+Class III,2,Hypertension + Fall History,85,83,,,,,,,Error: LinAlgError: Singular matrix
+Class III,3,Hypertension + Fall History + Urinary Incontinence,85,81,,,,,,,Error: LinAlgError: Singular matrix

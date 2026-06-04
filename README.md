@@ -1,5 +1,5 @@
 # ObesityResearchNE
- Analysis of correlations between obesity, mortality, and comorbilities. You only really need to know about/care about 5 files/folders
+ Analysis of correlations between obesity, mortality, and comorbilities. You only really need to know about/care about 6 files/folders
 
 ## environment.yml
 This file (hopefully) contains all of the necessary imports and software for running my code. To use it, type the following into your terminal after cloning and then navigating into this repository on your personal device:
@@ -15,7 +15,10 @@ There are 4 original datasets in this repository, but the most recent and cleane
 
 ## final_code.ipynb 
 To run, make sure to first install all relevant imports, then just run all of the cells in final_code.ipynb. If using VSCode, all you should need to do is go to the final_code.ipynb file and hit the "Run all" button (top center). All of my code contains comments explaining everything, but if you are confused by something then please notify me.
- 
+
+## arm_code_isolated.ipynb
+Contains all the necessary code for running ARM. Will need to be modified depending on what the actual datasets look like (extra conditions, different way of classifing the ADL scores).
+
 ## testing_notebook.ipynb
 Contains EDA/early code that I used to better understand the data. I later moved all of the important code to final_code.py
 

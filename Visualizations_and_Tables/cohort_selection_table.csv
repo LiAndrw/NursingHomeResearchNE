@@ -1,0 +1,7 @@
+Cohort selection,Number of selected patients,Dropped from the above step
+All residents with an identifiable first assessment,5000,0
+Age 66 years or older at first assessment,4119,881
+With valid weight at first assessment,1330,2789
+"No extreme weight at first assessment, 1st–99th percentile",1320,10
+With valid BMI at first assessment,1314,6
+BMI over 30 at first assessment,430,884
